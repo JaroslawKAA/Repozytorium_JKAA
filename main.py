@@ -1,4 +1,5 @@
-zmienn1 = 1
+zmienna1 = 1
+zmienna2 = 2
 
 if __name__ == '__main__':
     print("Uruchamiany bezpośrednio.")
